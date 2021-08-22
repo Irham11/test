@@ -1,2 +1,4 @@
 test git commit gabungan semua.txt
 coba ubah lagi semua .txt
+cek modified git diff
+test lagi bro
