@@ -81,3 +81,4 @@ void SensorInfus(){
       isLongDetected = true;
       }}} 
 }
+delay(10000);
